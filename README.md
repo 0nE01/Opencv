@@ -1,4 +1,3 @@
-![download (10)](https://github.com/0nE01/Opencv/assets/127254729/426171ca-8c1e-4bf3-8b64-afea78738a33)# Opencv
 ## In this repo we're going to review some of Opencv algorithms and methods to change your picture and detect objects in our picture.
 
 This repo is bulit along with the course I've seen to learn opencv and we'll start with some basic method such as cvtColor and the deeper we go through course the more interesting the methods become
@@ -162,4 +161,40 @@ In this part we'll learn how to draw lines in our image.
 Houghline is a process that can find lines in image. 
 
 ![download (14)](https://github.com/0nE01/Opencv/assets/127254729/5e949986-da7a-4d93-8425-05254eedf0c2)
+
+
+21. ### Counting coins
+
+In this part we'll draw Contur for coins and count amount of coins in image.
+
+![download (15)](https://github.com/0nE01/Opencv/assets/127254729/7c001afd-bd67-44cd-9306-dac12bba61fd)
+
+22. ### Shi-tomasi
+
+In this part we will find corners in image.
+
+Shi-tomasi used for the corner detection in the reference image.
+
+23. ### HDR
+    
+In this part we'll learn how to use HDR in images.
+
+We can say that HDR is a very large ratio between the brightest and darkest parts of the image.
+
+![download (16)](https://github.com/0nE01/Opencv/assets/127254729/3a86ec9c-21c9-43b4-9e39-cb31389106e9)
+
+
+24. ### Human detection
+    
+In this part we'll use yolo and detect human in image.
+
+![download (17)](https://github.com/0nE01/Opencv/assets/127254729/ca9fa58f-20c9-4c82-9dbc-bda639487a5f)
+
+
+25. ### Document scanning
+
+In this part we'll learn to fix a image about Document so we can scan it.
+
+![download (18)](https://github.com/0nE01/Opencv/assets/127254729/3047777b-0aa4-44be-8eca-d0d13f1f1f1e)
+
 
