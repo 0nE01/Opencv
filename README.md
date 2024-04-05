@@ -3,7 +3,7 @@
 This repo is bulit along with the course I've seen to learn opencv and we'll start with some basic method such as cvtColor and the deeper we go through course the more interesting the methods become
 like we'll use yolo to detecte obejects or count coins with opencv itself and use some algorithms like Clahe and more. 
 
-* [Read an image ](https://github.com/0nE01/Opencv/edit/main/README.md#read-an-image)
+* [Read an image ](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#read-an-image)
 * [Cropping](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#cropping) 
 * [Color channels](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-channels)
 * [Gray images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#gray-images)
