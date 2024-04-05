@@ -4,30 +4,30 @@ This repo is bulit along with the course I've seen to learn opencv and we'll sta
 like we'll use yolo to detecte obejects or count coins with opencv itself and use some algorithms like Clahe and more. 
 
 * [Read an image ](https://github.com/0nE01/Opencv/edit/main/README.md#read-an-image)
-* Cropping
-* Color channels
-* Gray images
-* Transparent image
-* Water mark
-* Look Up Table (lut)
-* Video/Save video
-* Thersh Hold/Adaptive thersh hold
-* Morphology
-* Connected componets
-* Contur
-* Approx poly
-* Color detection
-* Pop Effect
-* Clahe
-* Denoising
-* Sharpening images
-* Normalizing images
-* Houghline
-* Counting coins
-* Shi-tomasi
-* HDR
-* Human detection
-* Document scanning
+* [Cropping](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#cropping) 
+* [Color channels](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-channels)
+* [Gray images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#gray-images)
+* [Transparent image](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#transparent-image)
+* [Water mark](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#water-mark)
+* [Look Up Table (lut)](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#look-up-table-lut)
+* [Video/Save video](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#videosave-video)
+* [Thersh Hold/Adaptive thersh hold](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#thersh-holdadaptive-thersh-hold)
+* [Morphology](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#morphology)
+* [Connected componets](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#connected-componets)
+* [Contur](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#contur)
+* [Approx poly](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#approx-poly)
+* [Color detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-detection)
+* [Pop Effect](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#pop-effect)
+* [Clahe](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#clahe)
+* [Denoising](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#denoising)
+* [Sharpening images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#sharpening-images)
+* [Normalizing images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#normalizing-images)
+* [Houghline](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#houghline)
+* [Counting coins](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#counting-coins)
+* [Shi-tomasi](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#shi-tomasi)
+* [HDR](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#hdr)
+* [Human detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#human-detection)
+* [Document scanning](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#document-scanning)
 
 1.  #### `Read an image`
 
