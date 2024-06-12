@@ -1,33 +1,50 @@
-## In this repo we're going to review some of Opencv algorithms and methods to change your picture and detect objects in our picture.
+## Opencv 📷✨
 
-This repo is bulit along with the course I've seen to learn opencv and we'll start with some basic method such as cvtColor and the deeper we go through course the more interesting the methods become
-like we'll use yolo to detecte obejects or count coins with opencv itself and use some algorithms like Clahe and more. 
 
-* [Read an image ](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#read-an-image)
-* [Cropping](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#cropping) 
-* [Color channels](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-channels)
-* [Gray images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#gray-images)
-* [Transparent image](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#transparent-image)
-* [Water mark](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#water-mark)
-* [Look Up Table (lut)](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#look-up-table-lut)
-* [Video/Save video](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#videosave-video)
-* [Thersh Hold/Adaptive thersh hold](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#thersh-holdadaptive-thersh-hold)
-* [Morphology](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#morphology)
-* [Connected componets](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#connected-componets)
-* [Contur](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#contur)
-* [Approx poly](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#approx-poly)
-* [Color detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-detection)
-* [Pop Effect](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#pop-effect)
-* [Clahe](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#clahe)
-* [Denoising](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#denoising)
-* [Sharpening images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#sharpening-images)
-* [Normalizing images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#normalizing-images)
-* [Houghline](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#houghline)
-* [Counting coins](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#counting-coins)
-* [Shi-tomasi](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#shi-tomasi)
-* [HDR](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#hdr)
-* [Human detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#human-detection)
-* [Document scanning](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#document-scanning)
+<img src="https://github.com/0nE01/Opencv/assets/127254729/0db777bb-dd50-4d15-9b8f-d33985496a22" width="1100" height="500">
+
+### This repo is built along with the course I've seen to learn opencv.
+### We'll going to cover some basic method such as cvtColor and the deeper we go through course the more interesting the methods become. 🔥
+
+### You can learn many things about opencv and how it's functions work and apply them on your own images. 🖼
+
+## Functions ⚡
+
+#### See result of every function using linked below. 🎉
+
+|  Functions  | 
+| ------------- | 
+| [Read an image ](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#read-an-image) |
+| [Cropping](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#cropping) |
+| [Color channels](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-channels) |
+| [Gray images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#gray-images) |
+| [Transparent image](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#transparent-image) |
+| [Water mark](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#water-mark) |
+| [Look Up Table (lut)](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#look-up-table-lut) |
+| [Video/Save video](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#videosave-video) |
+| [Thersh Hold/Adaptive thersh hold](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#thersh-holdadaptive-thersh-hold) |
+| [Morphology](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#morphology) |
+| [Connected componets](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#connected-componets) | 
+| [Contur](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#contur) |
+| [Approx poly](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#approx-poly) |
+| [Color detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#color-detection) |
+| [Pop Effect](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#pop-effect) |
+| [Clahe](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#clahe) |
+| [Denoising](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#denoising) |
+| [Sharpening images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#sharpening-images) |
+| [Normalizing images](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#normalizing-images) |
+| [Houghline](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#houghline) |
+| [Counting coins](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#counting-coins) |
+| [Shi-tomasi](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#shi-tomasi) |
+| [HDR](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#hdr) |
+| [Human detection](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#human-detection) |
+| [Document scanning](https://github.com/0nE01/Opencv/tree/main?tab=readme-ov-file#document-scanning) |
+
+
+
+## Resultes 💪
+
+### In this part you can see results of every function on pictures.
 
 1.  #### `Read an image`
 
@@ -198,3 +215,5 @@ In this part we'll learn to fix a image about Document so we can scan it.
 ![download (18)](https://github.com/0nE01/Opencv/assets/127254729/3047777b-0aa4-44be-8eca-d0d13f1f1f1e)
 
 
+## Spread the word
+#### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
