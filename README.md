@@ -216,4 +216,4 @@ In this part we'll learn to fix a image about Document so we can scan it.
 
 
 ## Spread the word
-#### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
+### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
