@@ -4,7 +4,7 @@
 <img src="https://github.com/0nE01/Opencv/assets/127254729/0db777bb-dd50-4d15-9b8f-d33985496a22" width="1100" height="450">
 
 ### This repo is built along with the course I've seen to learn opencv.
-### We'll going to cover some basic method such as cvtColor and the deeper we go through course the more interesting the methods become. 🔥
+### We are going to cover some basic method such as cvtColor and the deeper we go through course the more interesting the methods become. 🔥
 
 ### You can learn many things about opencv and how it's functions work and apply them on your own images. 🖼
 
